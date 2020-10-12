@@ -54,7 +54,7 @@ mkdir server
 ## MongoDB
 
 MongoDB est le système de base de donnée noSQL que nous allons utiliser pour ce projet.
-Si vous ne possédez pas encore son outils de visualisation (MongoDB Compass), je vous invite à le télécharger et l'installer via le lien suivant [Install MongoDB Compass](https://www.mongodb.com/try/download/compass).
+Si vous ne possédez pas encore son outils de visualisation (MongoDB Compass), je vous invite à le télécharger et l'installer via le lien suivant [Install MongoDB Server](https://www.mongodb.com/try/download/community?tck=docs_server) ainsi que celui ci afin d'installer le client Compass: [Install Compass](https://www.mongodb.com/try/download/compass)
 Lorsque votre outil est installé, clickez sur l'onglet "New connexion"
 
 Pour vous connecter à votre localhost tapez la commande suivante dans l'input prévu à cet effet:
