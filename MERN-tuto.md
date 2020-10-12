@@ -24,6 +24,10 @@ Comme vous le savez, pour utiliser les technologies spécifiques que vous avez c
 
 Commencez par faire la liste des technologies dont vous avez besoin, puis rechercher leur mode d'installation et la version si nécessaire.
 
+```
+npm init
+```
+
 Dans notre cas nous aurons besoin d'express, mongoose, le package cors, ainsi que body parser.
 Pour ne pas répéter indéfiniment les commandes d'installation vous pouvez simplement concaténer l'entierté des packages dont vous avez besoin en un npm install:
 
